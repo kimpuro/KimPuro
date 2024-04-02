@@ -17,7 +17,7 @@
 <div align="center">
 <picture align="center">
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpuro&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpuro&layout=compact&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -31,7 +31,7 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=KimPuro&theme=dark"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=KimPuro&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
