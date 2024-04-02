@@ -12,5 +12,4 @@
     alt="github contribution grid snake animation"
     src="github-contribution-grid-snake.svg"
   />
-</picture>
-[![KimPuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimPuro)](https://github.com/KimPuro/github-readme-stats)
+</picture
