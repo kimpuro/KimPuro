@@ -12,6 +12,7 @@
     src="github-contribution-grid-snake.svg"
   />
 </picture>
+<br>
 <div align="center">
 <picture align="center">
   <source
