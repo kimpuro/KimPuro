@@ -13,4 +13,3 @@
     src="github-contribution-grid-snake.svg"
   />
 </picture>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?KimPuro=anuraghazra&layout=compact)
