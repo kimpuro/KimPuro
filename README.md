@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpuro&layout=compact&show_icons=true" />
 </picture>
 </div>
-<br>
+<!-- <br>
 <div align="center">
 <picture>
   <source
@@ -40,4 +40,4 @@
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KimPuro" />
 </picture>
-</div>
+</div> -->
