@@ -41,3 +41,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KimPuro" />
 </picture>
 </div> -->
+<br>
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31252fyofu75ghjr6l7jp3tifflq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31252fyofu75ghjr6l7jp3tifflq&redirect=true)
+</div>
