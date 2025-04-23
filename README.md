@@ -1,6 +1,5 @@
 ## Open source contribution
 - [toss/es-toolkit](https://github.com/toss/es-toolkit)
-- [Esoolgnah/Frontend-Interview-Questions](https://github.com/Esoolgnah/Frontend-Interview-Questions)
 
 <picture>
   <source
